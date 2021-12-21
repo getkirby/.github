@@ -1,4 +1,4 @@
-## Kirby CMS
+# Kirby CMS
 
 Kirby is a file-based CMS that adapts to you.
 
@@ -17,11 +17,11 @@ Kirby is a file-based CMS that adapts to you.
 
 ## Contribute
 
-**Found a bug?**  
+### Found a bug?
 Please post all bug reports in our [issue tracker](https://github.com/getkirby/kirby/issues).
 
-**Suggest a feature**  
+### Suggest a feature
 If you have ideas for a feature or enhancement for Kirby, please use our [feedback platform](https://feedback.getkirby.com).
 
-**Translations, bug fixes, code contributions ...**  
+### Translations, bug fixes, code contributions ...
 Read about how to contribute to the development in our [contributing guide](/.github/CONTRIBUTING.md).
