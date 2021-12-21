@@ -1,5 +1,5 @@
-# Kirby CMS
+# Organisation README
 
-Kirby is a file-based CMS that adapts to your projects.
+This repo is a nice little easter egg in Github. 
 
 
