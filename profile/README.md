@@ -24,4 +24,4 @@ Please post all bug reports in our [issue tracker](https://github.com/getkirby/k
 If you have ideas for a feature or enhancement for Kirby, please use our [feedback platform](https://feedback.getkirby.com).
 
 ### Translations, bug fixes, code contributions ...
-Read about how to contribute to the development in our [contributing guide](/.github/CONTRIBUTING.md).
+Read about how to contribute to the development in our [contributing guide](https://github.com/getkirby/kirby/blob/main/CONTRIBUTING.md).
